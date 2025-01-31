@@ -11,11 +11,11 @@ A simple C++ program that simulates a social media platform where users can:
 1. Compile the program using:  
    ```sh
    g++ Project.cpp -o Project
-  ``
+  
 2. Run the output file using:
   ```sh
   ./Project
-  ```
+```
 
 ## Features 
 
