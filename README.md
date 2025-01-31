@@ -14,8 +14,7 @@ A simple C++ program that simulates a social media platform where users can:
   
 2. Run the output file using:
    ```sh
-  ./Project
-``
+   ./Project
 
 ## Features 
 
