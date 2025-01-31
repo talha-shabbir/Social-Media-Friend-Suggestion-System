@@ -13,9 +13,9 @@ A simple C++ program that simulates a social media platform where users can:
    g++ Project.cpp -o Project
   
 2. Run the output file using:
-  ```sh
+   ```sh
   ./Project
-```
+``
 
 ## Features 
 
